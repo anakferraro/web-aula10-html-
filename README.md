@@ -5,5 +5,5 @@ Este repositório contém os exercícios práticos da Aula 8, com foco na práti
 ## Arquivos do Projeto
 
 - [Exercício Agenda](agenda.html)
-- [Exercício 2](exerc2.html)
-- [Exercício 3](exerc3.html)
+- [Exercício 2](exer2.html)
+- [Exercício 3](exer3.html)
