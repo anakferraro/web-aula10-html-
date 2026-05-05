@@ -1,0 +1,9 @@
+# Desenvolvimento Web - Exercícios de HTML
+
+Este repositório contém os exercícios práticos da Aula 8, com foco na prática de HTML, CSS e JavaScript.
+
+## Arquivos do Projeto
+
+- [Exercício Agenda](agenda.html)
+- [Exercício 2](exerc2.html)
+- [Exercício 3](exerc3.html)
